@@ -1,4 +1,4 @@
-**Owner**: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
+**Parent**: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
 <br>
